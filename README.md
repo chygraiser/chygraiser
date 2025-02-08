@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🚀 Sergii Chygrai – QA Lead | Test Lead | Quality Engineering Expert  
 
-<!--
-**chygraiser/chygraiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **11+ years** in Software Testing & QA Leadership  
+🔹 **5+ years** leading **Manual, Automation, Performance & Security Testing** teams  
+🔹 Specialized in **E-Commerce, Salesforce, and Web Applications**  
+🔹 Experienced in **Agile, DevOps, CI/CD, and Security Testing**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack & Tools  
+✅ **Manual Testing | Test Strategy | Test Planning**  
+✅ **Automation Testing** – Selenium, TestNG, REST Assured  
+✅ **API Testing** – Postman, JMeter, Swagger  
+✅ **Performance Testing** – JMeter, LoadRunner  
+✅ **Security Testing** – OWASP ZAP, Burp Suite  
+✅ **Bug Tracking & CI/CD** – Jira, Confluence, Git, Jenkins  
+✅ **Cloud & Databases** – AWS, PostgreSQL, MySQL  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 **Automated API Testing with Postman & REST Assured**  
+🔸 A collection of API test scripts for automated validation of RESTful services.  
+📌 **Repo:** [API-Test-Automation](https://github.com/chygraiser/API-Test-Automation)  
+
+### 🔹 **Performance Testing with JMeter**  
+🔸 Load & stress testing scripts for web applications to analyze system performance.  
+📌 **Repo:** [Performance-Testing-JMeter](https://github.com/chygraiser/Performance-Testing-JMeter)  
+
+### 🔹 **Security Testing with OWASP ZAP**  
+🔸 Automated security tests to identify vulnerabilities in web applications.  
+📌 **Repo:** [Security-Testing-OWASP-ZAP](https://github.com/chygraiser/Security-Testing-OWASP-ZAP)  
+
+---
+
+## 📊 Connect with Me  
+
+🔗 **GitHub:** [github.com/chygraiser](https://github.com/chygraiser)  
+🔗 **LinkedIn:** [linkedin.com/in/sergii-chygrai-195884a8](https://www.linkedin.com/in/sergii-chygrai-195884a8/)  
+📩 **Email:** s.chygrai@gmail.com  
+
+---
+
+💡 *I’m always open to collaboration on QA projects, automation frameworks, and performance/security testing solutions!* 🚀
