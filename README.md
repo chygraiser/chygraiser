@@ -1,7 +1,7 @@
-# 🚀 Sergii Chygrai – QA Lead | Test Lead | Quality Engineering Expert  
+# 🚀 Sergii Chygrai – QA Lead | Test Manager | Quality Engineering Expert  
 
-🔹 **11+ years** in Software Testing & QA Leadership  
-🔹 **5+ years** leading **Manual, Automation, Performance & Security Testing** teams  
+🔹 **13+ years** in Software Testing & QA Leadership  
+🔹 **6+ years** leading **Manual, Automation, Performance & Security Testing** teams  
 🔹 Specialized in **E-Commerce, Salesforce, and Web Applications**  
 🔹 Experienced in **Agile, DevOps, CI/CD, and Security Testing**  
 
